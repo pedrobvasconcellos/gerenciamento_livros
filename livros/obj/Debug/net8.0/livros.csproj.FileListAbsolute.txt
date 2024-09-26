@@ -1,0 +1,14 @@
+C:\Users\vasco\source\repos\biblioteca\livros\bin\Debug\net8.0\livros.exe
+C:\Users\vasco\source\repos\biblioteca\livros\bin\Debug\net8.0\livros.deps.json
+C:\Users\vasco\source\repos\biblioteca\livros\bin\Debug\net8.0\livros.runtimeconfig.json
+C:\Users\vasco\source\repos\biblioteca\livros\bin\Debug\net8.0\livros.dll
+C:\Users\vasco\source\repos\biblioteca\livros\bin\Debug\net8.0\livros.pdb
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\livros.AssemblyInfoInputs.cache
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\livros.AssemblyInfo.cs
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\livros.csproj.CoreCompileInputs.cache
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\livros.dll
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\refint\livros.dll
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\livros.pdb
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\livros.genruntimeconfig.cache
+C:\Users\vasco\source\repos\biblioteca\livros\obj\Debug\net8.0\ref\livros.dll
